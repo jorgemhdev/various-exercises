@@ -4,7 +4,7 @@ Here's a collection of programming exercises I like to do frequently, so I don't
 
 ### Can I use or share this code?
 
-Yes, as long as you credit the original author: Jorge Martinez Hurtado | jorgemhdev
+Yes, as long as you credit the original author: Jorge Martinez Hurtado | nothing4free
 
 ## The exercises
 
